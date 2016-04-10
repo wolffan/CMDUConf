@@ -6,4 +6,4 @@ The objective is provide a good start for not seasoned engineer and more insight
 The format will be conference, but we'll ask the speakers to provide all code related and step by step example on a github repo that you will be able to follow and get deep on.
 The objective is to get a mix between a workshop and a conference, and be highly technical. Also we'll have a couple of "less technical" conferences to valance the full day.
 
-As atendee you also are pledged to follow the Inclusivity Manifesto.
+As attendee you also are pledged to follow the Inclusivity Manifesto.
