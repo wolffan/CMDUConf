@@ -7,7 +7,7 @@ This is the public repo for my work on the upcoming Testing Conference in Barcel
 
 **Date**: 15 July 2016 (tbc)
 
-[**Inclusivity Manifesto**](https://github.com/wolffan/CMDUConf/inclusivityManifesto.md)
+[**Inclusivity Manifesto**](https://github.com/wolffan/CMDUConf/blob/master/inclusivityManifesto.md)
 
 **Conference Manifesto**
 
