@@ -11,7 +11,7 @@ This is the public repo for my work on the upcoming Testing Conference in Barcel
 
 [**Conference Manifesto**](https://github.com/wolffan/CMDUConf/blob/master/conference_manifeso.md)
 
-[**Speaker's Manifesto**](https://github.com/wolffan/CMDUConf/blob/master/speakers_manifeso.md)
+[**Speaker's Manifesto**](https://github.com/wolffan/CMDUConf/blob/master/speakers_manifesto.md)
 
 Tickets (tentative price): 70+Vat (early bird), 100+Vat (late bird)
 Tickets: I plan to have student tickets if the amount of cash is enough (or have companies sponsor student tickets.)
