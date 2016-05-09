@@ -16,3 +16,13 @@ This is the public repo for my work on the upcoming Testing Conference in Barcel
 Tickets (tentative price): 100+Vat (early bird), 140+Vat (late bird)
 
 Tickets: I plan to have student tickets if the amount of cash is enough (or have companies sponsor student tickets.)
+
+Topics / Speakers:
+
+Testing untested aps: Michael May
+Testing the outside of the app: Chris Maddern
+Framework Testing: Pedro Piñera
+Reactive Testing: - 
+Testing on Startups: Alice (unconfirmed)
+MVMM Testing: Ayaka Nonaka
+UI Testing: -
